@@ -17,7 +17,7 @@
 - The think i dislike the most about it is package management, and second is a lack of (at least compile time) reflection and annotations.
 - But I enjoy the well defined object lifetime rules and lack of garbage collector. Tho I would like o have clear rules for copy elision at return.
 - I think I might learn `Rust` in future.
-- I dislike Java. I feel like I'm trying to start a steam engine when creating a project in Java. Not sure exactly why.
+- I dislike `java`. I feel like I'm trying to start a steam engine when creating a project in Java. Not sure exactly why.
 - I like when language creators clearly show how to use CLI instead of relying on a proprietary IDE.
 
 ### Personality
