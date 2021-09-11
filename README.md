@@ -1,4 +1,4 @@
-## Hi there
+## Hi there, here I included some info about myself
 
 ### Knowledge
 
