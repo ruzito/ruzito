@@ -4,7 +4,7 @@
 
 - I have a bachelor degree from Faculty of Information Technology, CTU in Prague
 - I'm currently using vscode, but I have played with vim before and I'm looking forward to try out emacs with evil mode.
-- I'm most familiar with `c++`, `python`, `bash` and `javascript` but I have also worked with `c`, `asm`, `java`, `scala`, `latex`, `lisp`, `prolog`, `mathematica` and `typescript` as part of some school projects and homeworks and in my free time I am looking into `rust`.
+- I'm most familiar with `c++`, `python`, `bash` and `javascript` but I have also worked with `c`, `asm`, `java`, `scala`, `latex`, `lisp`, `prolog`, `mathematica`, `ruby` and `typescript` as part of some school projects and homeworks and in my free time I am looking into `rust`.
 - I also use linux as my daily driver and I'm not afraid of bash scripting and dotfiles editing
 - As part of my work at school I created a `mysql` database, API with `node.js` and `express.js` (now I know I should have used `typescript` there as well 😄), configured simple `nginx` web server and `webpack` to compile `react`, `typescript` and `sass`.
 - I am more than willing to learn more technologies.
